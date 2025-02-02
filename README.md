@@ -16,8 +16,8 @@ A graphical tool made for image analysis using various image processing algorith
 ## Installation
 Generate build files with CMake. Visual Studio 2022 project generator is recommended.
 
-## Examples
-Demo: 
+## Download
+Current release: https://github.com/wikborr/AdvancedImageAnalyzer/releases/tag/v0.7
 
 ## Dependencies
 - ImGui
